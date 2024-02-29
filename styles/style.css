@@ -1,0 +1,81 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    align-content: center;
+    text-align: center;
+    background-color: gray;
+}
+
+.product{
+    display:flex;
+    background-color:gray;
+    gap: 7rem;
+}
+
+
+.details{
+    display: flex;
+    flex-direction: column;
+    margin-right:150px;
+}
+
+.wrap{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.timer{
+    display: flex;
+    text-align: center;
+    margin-left: 3rem;
+    gap: 30px;
+    color: yellow;
+    margin-top: -5px;
+
+}
+
+.days{
+    background-color:black;
+    padding: 11px;
+    font-size: 42px;
+}
+
+
+.hours{
+    background-color:black;
+    padding: 11px;
+    font-size:42px;
+}
+
+.mins{
+    background-color:black;
+    padding: 11px;
+    font-size:42px;
+}
+.secs{
+    background-color:black;
+    padding: 11px;
+    font-size:42px;
+}
+
+
+h1{
+    color:aqua;
+}
+h2{
+ 
+   color:beige; 
+}
+
+h3{
+     color: red;
+     
+}
+
+
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+    
